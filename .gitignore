@@ -7,6 +7,7 @@
 
 # testing
 /coverage
+todo
 
 # database
 /prisma/db.sqlite
